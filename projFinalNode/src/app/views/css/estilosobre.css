@@ -1,0 +1,31 @@
+h1{
+    font-family: 'Trebuchet MS',Helvetica, sans-serif;
+    color: rgb(220, 53, 69);
+    font-size: 40px;
+    text-align: center;
+}
+#freefire{
+    background-color: rgb(107, 107, 107);
+    width: 900px;
+    height: 875px;
+    margin: auto;
+    align-self: center;
+    border: 5px solid rgb(220, 53, 69);
+    border-radius: 10px;
+}
+#titulos{
+    font-size: 25px;
+}
+body{
+    Display: flex;
+    Align-items: center;
+    Justify-content: center;
+    background-color: rgb(73, 73, 73);
+}
+#corpo{
+    background-color: rgb(52, 58, 64);
+}
+p{
+    font-family: 'Trebuchet MS',Helvetica, sans-serif;
+    font-size: large;
+}
